@@ -1,7 +1,7 @@
 # iRSpot-SF
 Prediction of Recombination Hotspots using Sequence Based Features
 ## Installation
-No installation needed. Just download the files in a folder or download the .gz file and extract it into your loacal directory. Forllowing prerequisites are required to run the software.
+No installation needed. Just download the files in a folder or download the iRSpot-SF-master.tar.gz file and extract it into your loacal directory. Following prerequisites are required to run the software.
 
 1. Install python 3.4 or latest version
 2. Install following python packages:
@@ -10,7 +10,7 @@ No installation needed. Just download the files in a folder or download the .gz 
     - sklearn
         
 ## Run the software:
-**Step 1:** Go to the folder "input". Open the text file "input.txt". Enter the DNA query sequences in FASTA format.
+**Step 1:** Go to the folder "input". Open the text file "input.txt". Enter the DNA query sequence in FASTA format.
 
 Example of a DNA sequence in FASTA format:
 
@@ -36,4 +36,4 @@ Example of a DNA sequence in FASTA format:
 
     HOT
     
-**N.B., If the FASTA format is not valid, it will not predict anything.**
+**N.B., If the DNA sequence is not in FASTA format, it will not predict anything.**
