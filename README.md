@@ -10,4 +10,4 @@ No installation needed. Just download the files in a folder or download the .gz 
     - sklearn
         
 ## Run the software:
-Step 1: Go to the folder "input". Open the text file "input.txt". Enter the DNA query sequences in FASTA format.
+**Step 1:** Go to the folder "input". Open the text file "input.txt". Enter the DNA query sequences in FASTA format.
