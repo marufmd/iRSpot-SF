@@ -35,3 +35,5 @@ Example of a DNA sequence in FASTA format:
 **Step 3:** Go to the folder "output". Open the text file "output.txt". It will show you the prediction for the DNA query sequence of "input.txt". *HOT* is shown for HOTSPOT and *COLD* for COLDSPOT. For the sample DNA sequence it'll show:
 
     HOT
+    
+**N.B., If the FASTA format is not valid, it will not predict anything.**
