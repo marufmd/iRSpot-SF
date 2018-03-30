@@ -28,6 +28,10 @@ Example of a DNA sequence in FASTA format:
     TTCTTGGGGAAGATTCATCTGGATATGTCAAGATGAGAGAGGATTATGATCGGCTAATGAAGAAT 
     AACCGGACAACTAACGCAGCAAGACAGCTACTACACTACCCGGAAGACGCTTTGTGTA
 
-**Step 3:** Go to the folder "output". Open the text file "output.txt". It will show you the prediction for the DNA query sequence of "input.txt". HOT is shown for HOTSPOT and COLD for COLDSPOT. For the sample DNA sequence it'll show:
+**Step 2:** Type the following command in the terminal:
+
+    $ python  model.py
+    
+**Step 3:** Go to the folder "output". Open the text file "output.txt". It will show you the prediction for the DNA query sequence of "input.txt". *HOT* is shown for HOTSPOT and *COLD* for COLDSPOT. For the sample DNA sequence it'll show:
 
     HOT
