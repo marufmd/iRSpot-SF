@@ -1,7 +1,7 @@
 # iRSpot-SF
 Prediction of Recombination Hotspots using Sequence Based Features
 ## Installation
-No installation needed. Just download the files in a folder or download the iRSpot-SF-master.tar.gz file and extract it into your loacal directory. Following prerequisites are required to run the software.
+No installation needed. Just download the files in a folder or download the iRSpot-SF-master.tar.gz file and extract it into your local directory. Following prerequisites are required to run the software.
 
 1. Install python 3.4 or latest version
 2. Install following python packages:
